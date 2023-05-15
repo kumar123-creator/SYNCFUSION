@@ -12,7 +12,7 @@
     ['Sunrisers Hyderabad', 7, 1, 6, 0, 0, 2, -0.623],
   ];
   
-	const columns = [];
+	const columns = ["team","matches","won","loss","nr","fairplay","points","nrr"];
   
   </script>
   
