@@ -1,6 +1,5 @@
 <script>
 	import Grid from "gridjs-svelte";
-     <h1>IPL POINTS TABLE</h1>
 	const data = [
 		['Mumbai Indians', 8, 6, 2, 0, 0, 12, 0.494],
     ['Chennai Super Kings', 7, 5, 2, 0, 0, 10, 1.263],
